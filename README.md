@@ -10,3 +10,7 @@ In this project, I create a relational database (`mlb.db`) which stores informat
 The database created was based on the schema outlined:
 
 ![Database Schema](https://s3.amazonaws.com/dq-content/193/mlb_schema.svg)
+
+### Libraries used
+- sqlite3
+- pandas
