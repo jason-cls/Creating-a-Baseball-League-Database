@@ -1,6 +1,6 @@
 # Creating a Baseball League Database
 
-In this project, I create a relational database (`mlb.db`) which stores information for a baseball league using SQL. Initially, relevant data is stored various csv files, each containing different information about the league:
+In this project, I create a relational database (`mlb.db`) which stores information for a baseball league using SQL. Initially, relevant data is stored in various csv files, each containing different information about the league:
 - `appearance_type.csv`
 - `game_log.csv` (not uploaded - file size contraints)
 - `park_codes.csv`
